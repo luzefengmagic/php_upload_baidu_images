@@ -30,8 +30,8 @@ uploadBaiduImages::init($path);
      * 上传图片
      * @static 该函数是静态的
      * @access public
-	 	* @param void
-	 	* @return string array 
+     * @param void
+     * @return string array 
      *
 **/
 uploadBaiduImages::upload();
