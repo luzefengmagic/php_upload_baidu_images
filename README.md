@@ -35,7 +35,7 @@ uploadBaiduImages::init($path);
      *
 **/
 uploadBaiduImages::upload();
-// 必须先初始化图片路径 并使用链式调用 uploadBaiduImages::init($path)：：upload();
+// 必须先初始化图片路径 并使用链式调用 uploadBaiduImages::init($path)::upload();
 
 ```
 
